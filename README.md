@@ -1,4 +1,6 @@
 Usage:
-$ make
+$ make 
+
+
 $ ./find_dup /home/gongyue/mycode
 
